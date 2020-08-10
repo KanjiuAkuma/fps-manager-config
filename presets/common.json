@@ -157,7 +157,7 @@
 				"huntingZoneId": []
 			},
 			"blockPlayers": {
-				"all": true,
+				"all": false,
 				"keepParty": true,
 				"class": [],
 				"name": []
@@ -166,7 +166,7 @@
 				"voice": true,
 				"allTitles": false,
 				"icons": false,
-				"allLook": true,
+				"allLook": false,
 				"p2wLook": false
 			}
 		},

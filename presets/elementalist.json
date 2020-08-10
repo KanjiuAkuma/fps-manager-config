@@ -157,7 +157,7 @@
 				"huntingZoneId": []
 			},
 			"blockPlayers": {
-				"all": true,
+				"all": false,
 				"keepParty": true,
 				"class": [],
 				"name": []
